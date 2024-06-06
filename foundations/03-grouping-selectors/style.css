@@ -1,0 +1,15 @@
+.white {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+
+.yellow, .white{
+  font-size: 28px;
+  font: Helvetica, 'Times New Roman', sans-serif,
+}
